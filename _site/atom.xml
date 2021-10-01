@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Jose Luis Tello</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-09-30T19:01:27-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Jose Luis Tello</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Third Party Integration</title>
+   <link href="http://localhost:4000/backend/2020/09/30/thirdparty-api.html"/>
+   <updated>2020-09-30T09:15:00-05:00</updated>
+   <id>http://localhost:4000/backend/2020/09/30/thirdparty-api</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weathercast</title>
+   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
+   <updated>2016-02-20T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
