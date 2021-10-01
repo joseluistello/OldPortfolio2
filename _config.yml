@@ -102,4 +102,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: 'https://simplificandola.substack.com/', text: 'Newsletter'}
+  - { url: 'https://simplificandola.substack.com/about?utm_source=menu-dropdown', text: 'Newsletter'}
