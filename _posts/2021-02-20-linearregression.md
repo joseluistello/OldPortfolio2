@@ -8,6 +8,6 @@ tags: Python Finance
 featured_image: '/img/posts/02_apple_regression.png'
 project_link: 'https://github.com/joseluistello/Regression-Analysis-Apple-Data'
 button_icon: 'github'
-button_text: Check Project'
-lead_text: 'Statistical model with scikit-learn and financial data from an API Rest.'
+button_text: 'Check Project'
+lead_text: 'Statistical model with scikit-learn and financial data from an API Rest'
 ---
