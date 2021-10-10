@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Third Party Integration'
 date: 2020-09-30 14:15:00
 categories: backend
