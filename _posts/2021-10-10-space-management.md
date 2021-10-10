@@ -6,7 +6,7 @@ date: 2020-09-30 14:15:00
 categories: backend
 tags: Django, DDD
 featured_image: '/img/posts/01_djangoapi.png'
-project_link: 'https://github.com/joseluistello/Django_Google_API'
+project_link: 'https://github.com/joseluistello/ToDo-List'
 button_icon: 'github'
 button_text: 'Check Project'
 lead_text: 'A small web application to manage your tasks'
