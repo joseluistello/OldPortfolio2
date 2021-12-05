@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-## Hi there, I'm José Luis Tello 👋 
+### Hi there, I'm José Luis Tello 👋 
 
-## I am a data analyst with years of experience in different positions. My background in analysis and my experience working with different teams makes it possible to understand the complexity behind systems, processes, and business.
+**I am a data analyst with years of experience in different positions. My background in analysis and my experience working with different teams makes it possible to understand the complexity behind systems, processes, and business.**
 
-### My stack consists in R, Python, Javascript, SQL and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, etc. who allows me to analyze data and develop software in a simple and escalable way. I like the process of abstracting reality and people's needs to the digital world. 
+**My stack consists in R, Python, Javascript, SQL and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, etc. who allows me to analyze data and develop software in a simple and escalable way. I like the process of abstracting reality and people's needs to the digital world.** 
 
 ---
 
