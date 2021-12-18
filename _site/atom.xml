@@ -4,7 +4,7 @@
  <title>Hello. I'm Jose Luis Tello</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-10-07T20:52:36-05:00</updated>
+ <updated>2021-12-17T19:09:29-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jose Luis Tello</name>
@@ -22,10 +22,28 @@
  </entry>
  
  <entry>
+   <title>Space Management Web App</title>
+   <link href="http://localhost:4000/backend/2020/09/30/space-management.html"/>
+   <updated>2020-09-30T09:15:00-05:00</updated>
+   <id>http://localhost:4000/backend/2020/09/30/space-management</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
    <title>Third Party Integration</title>
    <link href="http://localhost:4000/backend/2020/09/30/thirdparty-api.html"/>
    <updated>2020-09-30T09:15:00-05:00</updated>
    <id>http://localhost:4000/backend/2020/09/30/thirdparty-api</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ecommerce Data Analysis with Python</title>
+   <link href="http://localhost:4000/analysis/2020/08/17/ecommerceanalysis.html"/>
+   <updated>2020-08-17T09:15:00-05:00</updated>
+   <id>http://localhost:4000/analysis/2020/08/17/ecommerceanalysis</id>
    <content type="html">
 </content>
  </entry>

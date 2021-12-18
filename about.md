@@ -6,9 +6,9 @@ permalink: /about/
 
 ### Hi there, I'm José Luis Tello 👋 
 
-**I am a data analyst with years of experience in different positions. My background in analysis and my experience working with different teams makes it possible to understand the complexity behind systems, processes, and business.**
+I am a data analyst with years of experience in different positions. My background in analysis, experience working with teams, and knowledge of software development make me possible to understand the complexity behind systems, processes, and business. I enjoy the process of abstracting physical phenomenons and people's needs to the digital world. 
 
-**My stack consists in R, Python, Javascript, SQL and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, etc. who allows me to analyze data and develop software in a simple and escalable way. I like the process of abstracting reality and people's needs to the digital world.** 
+My stack consists of R, Python, Javascript, SQL, and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, and Excel. 
 
 ---
 
@@ -16,7 +16,7 @@ permalink: /about/
 
 - 🌱 I’m currently learning data engineering.
 - ❤️ I'm passionate about business, especially the process of discovering growth systems, levers and motions.
-- ⚡ I love read mangas, books, tech & business blogs.
+- ⚡ I love to read mangas, books, tech & business blogs.
 - 🌩️ I have a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with resources on statistical learning, product, writing, finance and more.
 
 ---
@@ -24,9 +24,10 @@ permalink: /about/
 ### 💡 **Projects**
 
 **Programming**
-- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Gatsby theme and deployed in the cloud with a personal domain
+- [Full Stack Web Application For Instant Grocery and Retail Deliver](https://github.com/joseluistello/Kkoma-Food/blob/main/README.md) - Django Rest Framework, Vue.js, Bulma and Stripe
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 - [Space Management WEB APP with Django](https://github.com/joseluistello/ToDo-List) - Django WebApp
+- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Gatsby theme and deployed in the cloud with a personal domain
 
 
 ### 🏝️ **Library**
