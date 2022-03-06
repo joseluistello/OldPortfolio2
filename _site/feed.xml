@@ -5,8 +5,8 @@
     <description>A data analyst and software developer from México.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Dec 2021 19:09:29 -0600</pubDate>
-    <lastBuildDate>Fri, 17 Dec 2021 19:09:29 -0600</lastBuildDate>
+    <pubDate>Sat, 05 Mar 2022 22:44:31 -0600</pubDate>
+    <lastBuildDate>Sat, 05 Mar 2022 22:44:31 -0600</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -23,6 +23,25 @@
         
         
         <category>analysis</category>
+        
+      </item>
+    
+      <item>
+        <title>Retail Delivery Startupp</title>
+        <description>
+</description>
+        <pubDate>Thu, 24 Dec 2020 08:15:00 -0600</pubDate>
+        <link>http://localhost:4000/backend/2020/12/24/kkoma.html</link>
+        <guid isPermaLink="true">http://localhost:4000/backend/2020/12/24/kkoma.html</guid>
+        
+        <category>DjangoRest</category>
+        
+        <category>Vue.Js</category>
+        
+        <category>Stripe</category>
+        
+        
+        <category>backend</category>
         
       </item>
     

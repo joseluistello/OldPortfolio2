@@ -5990,17 +5990,6 @@ button.btn, input.btn {
   position: relative;
   margin: 0 auto;
   margin-bottom: 1em; }
-  .section-title:after {
-    content: '';
-    position: absolute;
-    top: 1.35em;
-    width: 3em;
-    height: 3px;
-    background-color: #ECEFF1;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%); }
 
 .section-subtitle {
   width: 40%;
@@ -6035,14 +6024,6 @@ button.btn, input.btn {
     .content-wrap .content h3.title {
       position: relative;
       margin-bottom: 1.5em; }
-      .content-wrap .content h3.title:after {
-        content: '';
-        position: absolute;
-        top: 1.5em;
-        left: 0;
-        width: 3em;
-        height: 3px;
-        background-color: #ECEFF1; }
     .content-wrap .content .excerpt {
       width: 80%; }
       @media only screen and (max-width: 768px) {
