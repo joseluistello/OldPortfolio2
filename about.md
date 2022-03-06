@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-### Hi there, I'm José Luis Tello 👋 
+### Hi there 👋 
 
-I am a data analyst with years of experience in different positions. My background in analysis, experience working with teams, and knowledge of software development make me possible to understand the complexity behind systems, processes, and business. I enjoy the process of abstracting physical phenomenons and people's needs to the digital world. 
+José Luis Tello is a problem-solving oriented professional with years of experience in different positions who loves the process of abstracting physical phenomenons and people's needs to the digital world. His background and experience in analysis and software development make it possible to understand the complexity behind systems, processes, and business. He is currently developing Kkoma, a local service that allows you to buy groceries online.
 
-My stack consists of R, Python, Javascript, SQL, and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, and Excel. 
+His stack consists of R, Python, Javascript, SQL, and multiple libraries, frameworks & technologies like Django, Vue, Pandas, Tidyverse, SQL Server, and Excel. 
 
 ---
 
