@@ -6036,6 +6036,7 @@ button.btn, input.btn {
       position: relative;
       margin-bottom: 1.5em; }
       .content-wrap .content h3.title:after {
+        content: '';
         position: absolute;
         top: 1.5em;
         left: 0;
